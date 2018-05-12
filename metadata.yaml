@@ -1,0 +1,42 @@
+_repo: The-Works-of-Guy-de-Maupassant-Volume-3_17376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2005-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcsh 'French fiction -- Translations into English'
+tableOfContents: The Viaticum -- The Relics -- The Thief -- A Rupture -- A Useful
+  House -- The Accent -- Ghosts -- Crash -- An Honest Ideal -- Stable Perfume -- The
+  Ill-Omened Groom -- An Exotic Prince -- Virtue in the Ballet -- In His Sweetheart's
+  Livery -- Delila -- A Mesalliance -- Bertha -- Abandoned -- A Night in Whitechapel
+  -- Countess Satan -- Kind Girls -- Profitable Business -- Violated -- Jeroboam --
+  The Log -- Margot's Tapers -- Caught in the Very Act -- The Confession -- Was It
+  a Dream -- The Last Step -- The Will -- A Country Excursion -- The Lancer's Wife
+  -- The Colonel's Ideas -- One Evening -- The Hermaphrodite -- Marroca -- An Artifice
+  -- The Assignation -- An Adventure -- The Double Pins -- Under the Yoke -- The Real
+  One and the Other -- The Upstart -- The Carter's Wench -- The Marquis -- The Bed
+  -- An Adventure in Paris -- Madame Baptiste -- Happiness.
+title: The Works of Guy de Maupassant, Volume 3
+url: http://www.gutenberg.org/ebooks/17376
